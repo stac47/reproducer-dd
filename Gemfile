@@ -67,3 +67,7 @@ group :test do
 end
 
 gem "rspec-rails", "~> 6.1"
+
+gem "ddtrace", "~> 1.19"
+
+gem "webmock", "~> 3.19"
